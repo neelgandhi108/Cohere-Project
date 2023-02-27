@@ -1,0 +1,11 @@
+__pycache__/
+
+data/relations_test.csv
+data/relations_dev_train.csv
+data/newsartifacts.csv
+data/newsdata.csv.csv
+data/titles.json
+data/DIPLOMA.txt
+notebooks/daggie.ipynb
+scripts/job_entities.py
+scripts/cohere.py.txt
